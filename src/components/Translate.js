@@ -13,8 +13,16 @@ const options = [
         value: 'ar'
     },
     {
-        label: 'Hindi',
-        value: 'hi'
+        label: 'Yiddish',
+        value: 'yi'
+    },
+    {
+        label: 'Hebrew',
+        value: 'iw'
+    },
+    {
+        label: 'Japanese',
+        value: 'ja'
     }
 ];
 
